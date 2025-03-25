@@ -1,0 +1,164 @@
+{
+    "movies": {
+        "1":{
+            "backgroundImg": "https://i.imgur.com/4nC8DJm.jpg",
+            "cardImg": "https://i.imgur.com/bXmClXh.jpg",
+            "description": "The Avengers is a 2012 Marvel movie about a group of superheroes who come together to defeat Loki and his alien army.",
+            "subTitle": " 2012 ‧ Action/Adventure ‧ 2h 23m",
+            "title": "Avengers",
+            "titleImg": "https://i.imgur.com/IQvzbXi.png",
+            "type": "original"
+
+        },
+        "2":{
+            "backgroundImg": "https://i.imgur.com/7KO01XH.jpg",
+            "cardImg": "https://i.imgur.com/eKsB29T.jpg",
+            "description": "Captain America: Civil War is a Marvel film where a political push for superhero accountability divides the Avengers, leading to a major conflict between Captain America (Steve Rogers), who believes in freedom of action, and Iron Man (Tony Stark)",
+            "subTitle": " 2016 ‧ Action/Adventure ‧ 2h 27m",
+            "title": "Captain America: Civil War",
+            "titleImg": "https://i.imgur.com/jjUcn0F.png",
+            "type": "trending"
+
+        },
+        "3":{
+            "backgroundImg": "https://i.imgur.com/drxCEzD.jpg",
+            "cardImg": "https://i.imgur.com/XXHbV5V.jpg",
+            "description": "Deadpool is a 2016 Marvel Comics-based movie about a former Special Forces operative who becomes a mercenary with accelerated healing powers. ",
+            "subTitle": "2016 ‧ Action/Comedy ‧ 1h 48m",
+            "title": "Deadpool",
+            "titleImg": "https://i.imgur.com/iqxLJjd.png",
+            "type": "recommend"
+
+        },
+        "4":{
+            "backgroundImg": "https://i.imgur.com/6tJyOJI.jpg",
+            "cardImg": "https://i.imgur.com/yEyWduv.jpg",
+            "description": "Captain America: Brave New World is a Marvel film where Sam Wilson, now the new Captain America, faces a global crisis under the leadership of the newly elected President Thaddeus Ross, navigating a complex political landscape",
+            "subTitle": "2025 ‧ Action/Sci-fi ‧ 2 hours",
+            "title": "Captain America: Brave New World",
+            "titleImg": "https://i.imgur.com/nAusnN7.png",
+            "type": "new"
+
+        },
+        "5":{
+            "backgroundImg": "https://i.imgur.com/QifgX0j.jpg",
+            "cardImg": "https://i.imgur.com/FMbytW1.jpg",
+            "description": "Eddie Brock and Venom — the lethal alien creature that lives within him — are back, and this time they're on the run. After hiding out in Mexico, the pair make their way to the Big Apple. But an otherworldly being is hot on their tail, and a secret lab is trying to tear them apart.",
+            "subTitle": "2024 ‧ Action/Sci-fi ‧ 1h 49m",
+            "title": "Venom: The Last Dance",
+            "titleImg": "https://i.imgur.com/L0SnhN0.png",
+            "type": "recommend"
+
+        },
+        "6":{
+            "backgroundImg": "https://i.imgur.com/SbDx7Ng.jpg",
+            "cardImg": "https://i.imgur.com/pQmlyjS.jpg",
+            "description": "Guardians of the Galaxy is a 2014 Marvel superhero movie about a group of intergalactic mercenaries who band together to save the galaxy.",
+            "subTitle": "2014 ‧ Action/Sci-fi ‧ 2h 1m",
+            "title": "Guardians Of The Galaxy: Vol 1",
+            "titleImg": "https://i.imgur.com/uJmCW9K.png",
+            "type": "recommend"
+
+        },
+        "7":{
+            "backgroundImg": "https://i.imgur.com/Mt88tRY.jpg",
+            "cardImg": "https://i.imgur.com/qmc7TSq.jpg",
+            "description": "Ant-Man tells the story of Scott Lang, a master thief recently released from prison, who is recruited by Dr. Hank Pym to become the new Ant-Man, a superhero with the ability to shrink in size while retaining superhuman strength",
+            "subTitle": "2015 ‧ Action/Comedy ‧ 1h 57m",
+            "title": "Ant-Man",
+            "titleImg": "https://i.imgur.com/eRU8TTi.png",
+            "type": "trending"
+
+        },
+        "8":{
+            "backgroundImg": "https://i.imgur.com/eeTrnF2.jpg",
+            "cardImg": "https://i.imgur.com/XyFmGhu.jpg",
+            "description": "Shang-Chi, the master of weaponry-based Kung Fu, is forced to confront his past after being drawn into the Ten Rings organization. Shang-Chi, the master of weaponry-based Kung Fu, is forced to confront his past after being drawn into the Ten Rings organization.",
+            "subTitle": "2021 ‧ Action/Adventure ‧ 2h 12m",
+            "title": "Shang-Chi: The Legend Of Ten Rings",
+            "titleImg": "https://i.imgur.com/41beCMQ.png",
+            "type": "trending"
+
+        },
+        "9":{
+            "backgroundImg": "https://i.imgur.com/4xO5AKR.jpg",
+            "cardImg": "https://i.imgur.com/lqkBm6j.jpg",
+            "description": "Spider-Man: Far From Home is a 2019 Marvel superhero movie about Peter Parker (Tom Holland) who goes on a European vacation with his friends. However, his plans change when he's recruited by Nick Fury (Samuel L. Jackson) to help stop a series of elemental creature attacks",
+            "subTitle": "2019 ‧ Action/Sci-fi ‧ 2h 10m",
+            "title": "Spider Man: Far From Home",
+            "titleImg": "https://i.imgur.com/LOFHycc.png",
+            "type": "new"
+
+        },
+        "10":{
+            "backgroundImg": "https://i.imgur.com/rOPE9Pj.jpg",
+            "cardImg": "https://i.imgur.com/qfhSkOp.jpg",
+            "description": "Thor: Ragnarok is a 2017 American superhero film based on the Marvel Comics character Thor, produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures. It is the sequel to Thor (2011) and Thor: The Dark World (2013), and is the 17th film in the Marvel Cinematic Universe (MCU).",
+            "subTitle": " 2017 ‧ Action/Sci-fi ‧ 2h 10m",
+            "title": "Thor: Ragnarok",
+            "titleImg": "https://i.imgur.com/X0Pvqra.png ",
+            "type": "original"
+
+        },
+        "11":{
+            "backgroundImg": "https://i.imgur.com/E31L9Cf.jpg",
+            "cardImg": "https://i.imgur.com/1R5QpUp.jpg",
+            "description": "Iron Man 3 is a 2013 Marvel movie about Tony Stark, also known as Iron Man, who seeks revenge against a terrorist named the Mandarin. The movie explores themes of identity, anxiety, and the dangers of unchecked power. ",
+            "subTitle": " 2013 ‧ Action/Sci-fi ‧ 2h 10m",
+            "title": "Iron Man 3",
+            "titleImg": "https://i.imgur.com/kMmVr15.png",
+            "type": "trending"
+
+        },
+        "12":{
+            "backgroundImg": "https://i.imgur.com/Uj0Nf4w.jpg",
+            "cardImg": "https://i.imgur.com/FBji2nk.jpg",
+            "description": "Captain America: The First Avenger tells the story of Steve Rogers, a physically weak but morally strong man who volunteers for a top-secret military experiment during World War II, transforming him into the super-soldier known as Captain America, where he must fight against the evil Nazi organization HYDRA",
+            "subTitle": " 2011 ‧ Action/Sci-fi ‧ 2h 4m",
+            "title": "Captain America: The First Avenger",
+            "titleImg": "https://i.imgur.com/Ur1jEGE.png",
+            "type": "original"
+
+        },
+        "13":{
+            "backgroundImg": "https://i.imgur.com/88rDDxJ.jpg",
+            "cardImg": "https://i.imgur.com/5umjfPM.jpg",
+            "description": "2008's Iron Man tells the story of Tony Stark, a billionaire industrialist and genius inventor who is kidnapped and forced to build a devastating weapon. Instead, using his intelligence and ingenuity, Tony builds a high-tech suit of armor and escapes captivity.",
+            "subTitle": "2008 ‧ Action/Sci-fi ‧ 2h 6m",
+            "title": "Iron Man 1",
+            "titleImg": "https://i.imgur.com/zI8Vnxq.png",
+            "type": "original"
+
+        },
+        "14":{
+            "backgroundImg": "https://i.imgur.com/vgHIhfj.jpg",
+            "cardImg": "https://i.imgur.com/dgLPdGF.jpg",
+            "description": "Spider-Man: No Way Home is a 2021 Marvel action-adventure movie about Peter Parker's secret identity being revealed to the world. Peter asks Doctor Strange to make the world forget he's Spider-Man, but the spell goes wrong and brings in dangerous villains from other universes. ",
+            "subTitle": "2021 ‧ Action/Sci-fi ‧ 2h 28m",
+            "title": "Spider Man: No Way Home",
+            "titleImg": "https://i.imgur.com/Nd5mEOZ.png",
+            "type": "new"
+
+        },
+        "15":{
+            "backgroundImg": "https://i.imgur.com/CjbP0bW.jpg",
+            "cardImg": "https://i.imgur.com/S0mktK2.jpg",
+            "description": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+            "subTitle": " 2018 ‧ Action/Sci-fi ‧ 2h 29",
+            "title": "Avengers: Infinity War",
+            "titleImg": "https://i.imgur.com/p0nOYih.png",
+            "type": "recommend"
+
+        },
+        "16":{
+            "backgroundImg": "https://i.imgur.com/evfj47P.jpg",
+            "cardImg": "https://i.imgur.com/Yd8xDjT.jpg",
+            "description": "Deadpool 2 is a 2018 superhero movie about Wade Wilson (Ryan Reynolds), also known as Deadpool, who tries to protect a young mutant from a dangerous cyborg. ",
+            "subTitle": "2018 ‧ Action/Comedy ‧ 1h 59m",
+            "title": "Deadpool 2",
+            "titleImg": "https://i.imgur.com/qU4ilJi.png",
+            "type": "new"
+
+        }
+    }
+}
